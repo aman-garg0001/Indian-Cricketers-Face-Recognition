@@ -26,6 +26,7 @@ This repository contains an implementation of VGGFace neural network model to cl
 1. Download the trained model from the link given above 
 2. Run WebCam.py
 3. This will open the webcam and create a bounding box around the face and predict on that face
+
 ![Prediction_WebCam](https://user-images.githubusercontent.com/43947335/118989711-e18d3b00-b99f-11eb-829f-963e3146a0ce.jpg)
 
 # Dataset Preprocessing
