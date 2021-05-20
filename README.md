@@ -1,6 +1,10 @@
 # Indian-Cricketers-Face-Recognition
 This repository contains an implementation of VGGFace neural network model to classify the images of Indian Cricketers
 
+# About Data Set
+- Data Set was downloaded from https://www.kaggle.com/omkarjc27/indian-cricketers-images
+- Contains images of 15 indian cricket players
+
 # Specifications:
 - Training Data Set Size = 313 images belonging to 15 classes.
 - Testing Data Set size = 78 images belonging to 15 classes.
