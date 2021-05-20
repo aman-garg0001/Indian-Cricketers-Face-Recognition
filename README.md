@@ -24,6 +24,7 @@ This repository contains an implementation of VGGFace neural network model to cl
 1. Download the trained model from the link given above 
 2. Run predict.py
 3. Enter the path of the image you want to predict
+
 ![Predicted_Image](https://user-images.githubusercontent.com/43947335/118995528-d7ba0680-b9a4-11eb-8ea0-ce2d2282723c.jpg)
 
 # How to Run (Open WebCam make a bounding box around face and predict)
